@@ -30,5 +30,4 @@ CODING STYLES
 
 BUILT WITH
 	Twitter API - To give access to Twitter account
-	Text Analytics API - To analyze the tweets for sentiment analysis 
-=======
+	Text Analytics API - To analyse tweets for sentiment analysis
