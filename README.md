@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TwitterSentimentAnalyser
 
 DESCRIPTION
@@ -33,6 +32,3 @@ BUILT WITH
 	Twitter API - To give access to Twitter account
 	Text Analytics API - To analyze the tweets for sentiment analysis 
 =======
-# YouExpressWeAnalyse
-Microsoft Code Fun Do Hackathon - Sentiment Analyser of Tweets from a Twitter Handle
->>>>>>> 6d6c92ca31efdb8ac78e52b2161864c445409599
